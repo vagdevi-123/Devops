@@ -57,7 +57,7 @@ commit the changes to version control.
 Jenkins is an open source automation server written in java. It helps to automate the part of software development process with continuous integration and facilitating technical ascepts of continuous delivery.
 
 
-6.** Configuration-Ansible**
+6.**Configuration-Ansible**
 
 Anible is one of the configuration management tools
 
@@ -96,7 +96,8 @@ Acontainer is a package of Application, Application libraries, system dependenci
 Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
 
 
-![image](https://github.com/vagdevi-123/Devops/assets/94599331/28a6137f-21a9-4c33-8f75-543c8bbdc0bb)
+![image](https://github.com/vagdevi-123/Devops/assets/94599331/c1d87a76-b143-430d-ab04-798b392596f4)
+
 
 
 
