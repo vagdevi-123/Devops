@@ -27,6 +27,38 @@ Virtualization uses software that simulates hardware functionality to create a v
 -> Hypervisor :-  Hypervisor is asoftware which can install virtual machines on physical servers. Examples:VMware, Xen etc.
 
   These Virtual machines(VM) are independent to each other and have their own memory, CPU and hardware.
+
+3.**Linux**
+
+ust like Windows, iOS, and Mac OS, Linux is an operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop and manages the communication between your software and your hardware.
+
+![image](https://github.com/vagdevi-123/Devops/assets/94599331/7c8b203d-17b7-4b16-93b4-bf600f066010)
+
+
+->Kernel is the core of an Operting system, managing hardware and coordinating memory and CPU operations.
+
+4. **Git and git hub**
+
+Git is a version control system focused on code sharing.It installs on Local system and used to manage different versions of the source code, It provides a command line interface to onteract with the files.
+
+Git hub is a web hosted service and focused on centralized source code hosting, It is a graphical user interfacce,.
+
+![image](https://github.com/vagdevi-123/Devops/assets/94599331/83dfef5b-6612-47c3-af85-399178d38006)
+
+5. **Jenkins**
+
+It is a continuus Integration(CI) tool, CI is a process of automating the building and testing of the code, each time one of the team member 
+commit the changes to version control.
+
+![image](https://github.com/vagdevi-123/Devops/assets/94599331/6e3cef9e-6318-4a4d-ad6f-80a79ba8e289)
+
+
+Jenkins is an open source automation server written in java. It helps to automate the part of software development process with continuous integration and facilitating technical ascepts of continuous delivery.
+
+
+
+
+
   
 
 
